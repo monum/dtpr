@@ -1,12 +1,11 @@
 # Designing for Digital Transparency in the Public Realm
 
-[Digital Transparency in the Public Realm](https://sidewalklabs.com/dtpr/) is a project that seeks to facilitate the co-creation of prototypes that can advance digital transparency and enable agency in the world's public spaces.
+[Digital Transparency in the Public Realm](https://process.dtpr.dev/) is a project that seeks to facilitate the co-creation of prototypes that can advance digital transparency and enable agency in the world's public spaces.
 
 With cities increasingly embracing digital technology in the built environment, we believe people should be able to quickly understand how these technologies work and the purposes they serve. We believe that creating a unified visual language will be a critical starting point, and that digital tools could help people to follow up and learn more.
 
 Expert groups came together in cities around the world in co-design sessions to collaborate and prototype an initial set of open standards for digital transparency in the public realm. These standards, as well as all the workshop activities and materials that generated them, are publicly and freely available for others to adopt, use, and build upon.
 
-**We’re looking for partners who want to advance the use and adoption of these standards in the public realm. Please get in touch at dtpr-hello@sidewalklabs.com.**
 
 ![Illustration of the DTPR development process](https://sidewalklabs.com/assets/uploads/2019/03/Process.png)
 
@@ -16,11 +15,11 @@ There are four major components to DTPR - **icons**, a **signage system**, and a
 
 ### Icons
 
-You can download the [icon files and visual system](https://github.com/sidewalklabs/dtpr/tree/master/dtpr_icons) from Github.
+You can download the [icon files and visual system](https://github.com/Helpful-Places/dtpr/tree/master/dtpr_icons) from Github.
 
 ### Design Guide
 
-The [design guide](https://github.com/sidewalklabs/dtpr/blob/master/dtpr_designguide/DTPR_Design_Guide.pdf) has what you need to know in order to actually create signs using the icons or add the icons to existing signage.
+The [design guide](https://github.com/Helpful-Places/dtpr/tree/master/dtpr_designguide) has what you need to know in order to actually create signs using the icons or add the icons to existing signage.
 
 ### Taxonomy
 
